@@ -6,7 +6,7 @@ nav:
       - 'Верхняя панель': '/topbar/topbar.md'
       - 'Нижняя панель': '/bottombar/bottombar.md'
       - 'Вкладки в терминале': '/tabs/tabs.md'
-      - 'Виджеты': 'widgets.md'
+      - 'Виджеты': '/widgets/widgets.md'
   - 'Виджеты':
       - 'График': '1.md'
       - 'Индикаторы': '1.md'
