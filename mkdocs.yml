@@ -12,7 +12,7 @@ nav:
       - 'Индикаторы': '/tv_chart/indicators/indicators.md'
       - 'Устаревший график': '1.md'
       - 'Заявка': '/orders/orders1.md'
-      - 'Активные заявки': '1.md'
+      - 'Активные заявки': '/orders/active.md'
       - 'Портфель': '1.md'
       - 'Подписки': '1.md'
       - 'Об инструменте': '/about/about.md'
