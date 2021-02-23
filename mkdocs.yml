@@ -1,8 +1,7 @@
 site_name: Веб-терминал
 nav:
   - 'Терминал':
-      - 'Предложения и вопросы': '1.md'
-  - 'Общее':
+      - 'Общее': '/intro/intro.md'
       - 'Верхняя панель': '/topbar/topbar.md'
       - 'Нижняя панель': '/bottombar/bottombar.md'
       - 'Вкладки в терминале': '/tabs/tabs.md'
@@ -10,19 +9,19 @@ nav:
   - 'Виджеты':
       - 'График': '/tv_chart/tv_chart.md'
       - 'Индикаторы': '/tv_chart/indicators/indicators.md'
-      - 'Устаревший график': '1.md'
+      - 'Устаревший график': '/old_chart/old_chart.md'
       - 'Заявка': '/orders/orders1.md'
       - 'Активные заявки': '/orders/active.md'
-      - 'Портфель': '1.md'
-      - 'Подписки': '1.md'
+      - 'Портфель': '/portfolio/portfolio.md'
+      - 'Подписки': '/alarm/alarm.md'
       - 'Об инструменте': '/about/about.md'
-      - 'Инструменты': '1.md'
-      - 'Операции': '1.md'
+      - 'Инструменты': '/instruments/instruments.md'
+      - 'Операции': '/transactions/transactions.md'
       - 'Стакан': '/orderbook/index.md'
-      - 'Скринер': '1.md'
-      - 'Маржинальная торговля': '1.md'
-      - 'Лента': '1.md'
-      - 'Календарь инвестора': '1.md'
+      - 'Скринер': '/screener/screener.md'
+      - 'Маржинальная торговля': '/margin/margin.md'
+      - 'Лента': '/feed/feed.md'
+      - 'Календарь инвестора': '/calendar/calendar.md'
 theme:
   name: material
   features:
