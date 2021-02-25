@@ -14,7 +14,7 @@ nav:
       - 'Календарь дивидендов': 'calendar/calendar.md'
       - 'График': 'tv_chart/tv_chart.md'
       - 'Устаревший график': 'old_chart/old_chart.md'
-      - 'Стакан': 'orderbook/index.md'
+      - 'Стакан': 'orderbook/orderbook.md'
       - 'Об инструменте': 'about/about.md'
       - 'Портфель': 'portfolio/portfolio.md'
       - 'Пополнение/Вывод': 'in_out/in_out.md'
