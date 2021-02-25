@@ -13,8 +13,6 @@ nav:
       - 'Инструменты': '/instruments/instruments.md'
       - 'Календарь дивидендов': '/calendar/calendar.md'
       - 'График': '/tv_chart/tv_chart.md'
-            - 'Левая панель': '/tv_chart/leftbar/leftbar.md'
-            - 'Индикаторы': '/tv_chart/indicators/indicators.md'
       - 'Устаревший график': '/old_chart/old_chart.md'
       - 'Стакан': '/orderbook/index.md'
       - 'Об инструменте': '/about/about.md'
